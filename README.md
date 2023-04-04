@@ -3,15 +3,13 @@ Game Start
 ![2](https://user-images.githubusercontent.com/48796920/229818842-4a261dca-4735-4e6b-8cc1-dbd23a5ce318.PNG)
 
 User 1 Win
-![1](https://user-images.githubusercontent.com/48796920/229818866-87bf2c42-b8fa-4e29-a0e9-9d84d5932bda.PNG)
+![1](https://user-images.githubusercontent.com/48796920/229820479-930c46fa-7a15-4b5f-8987-c03f6bbcfa0d.PNG)
 
 User 2 Win
-![3](https://user-images.githubusercontent.com/48796920/229818881-33c55ba2-794e-4d88-ac48-3f0ff3752bfa.PNG)
+![3](https://user-images.githubusercontent.com/48796920/229820511-3fba5672-13c6-4a83-b155-68b5a3033870.PNG)
 
 Competition Draw
-![4](https://user-images.githubusercontent.com/48796920/229818892-2e2cf106-8ce0-45e5-a8df-1e7dfe3825f0.PNG)
-
-
+![4](https://user-images.githubusercontent.com/48796920/229820524-6901883a-a469-4d4b-84b9-4d57d575ddbc.PNG)
 
 
 
